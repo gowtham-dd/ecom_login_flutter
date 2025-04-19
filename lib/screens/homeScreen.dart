@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_screen_2/widgets/custom_navigation_bar.dart';
+import 'package:ecom_login_flutter/widgets/custom_navigation_bar.dart';
 
 class HomeScreen extends StatefulWidget {
   final List<Widget> screens;

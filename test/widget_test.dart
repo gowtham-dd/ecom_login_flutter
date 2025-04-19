@@ -7,8 +7,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:login_screen_2/main.dart';
-import 'package:login_screen_2/widgets/custom_button.dart';
+import 'package:ecom_login_flutter/main.dart';
+import 'package:ecom_login_flutter/widgets/custom_button.dart';
 
 void main() {
   testWidgets('LoginScreen shows login form and navigates on login',

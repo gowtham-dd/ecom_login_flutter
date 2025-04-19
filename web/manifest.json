@@ -1,6 +1,6 @@
 {
-    "name": "login_screen_2",
-    "short_name": "login_screen_2",
+    "name": "ecom_login_flutter",
+    "short_name": "ecom_login_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

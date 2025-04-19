@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_login/flutter_login.dart';
-import 'package:login_screen_2/screens/homeScreen.dart';
+import 'package:ecom_login_flutter/screens/homeScreen.dart';
 import '../utils/colors.dart';
 
 class LoginScreen extends StatelessWidget {

@@ -1,4 +1,4 @@
-name: login_screen_2
+name: ecom_login_flutter
 description: "A Flutter package for easy and customizable login screens, navigation bars, and authentication flows for e-commerce apps."
 publish_to: 'https://pub.dev'  # Enable publication to pub.dev, or remove this line entirely
 
