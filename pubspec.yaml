@@ -1,9 +1,8 @@
 name: login_screen_2
-description: "A new Flutter project."
-# The following line prevents the package from being accidentally published to
-# pub.dev using `flutter pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+description: "A Flutter package for easy and customizable login screens, navigation bars, and authentication flows for e-commerce apps."
+publish_to: 'https://pub.dev'  # Enable publication to pub.dev, or remove this line entirely
 
+version: 1.0.0+1
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
@@ -16,7 +15,6 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.0+1
 
 environment:
   sdk: ^3.5.4
@@ -89,3 +87,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+repository: https://github.com/gowtham-dd/ecom_login_flutter
