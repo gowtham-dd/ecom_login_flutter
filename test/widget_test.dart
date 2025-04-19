@@ -8,10 +8,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:login_screen_2/main.dart';
-
-import 'package:login_screen_2/screens/homeScreen.dart';
-import 'package:login_screen_2/screens/loginScreen.dart';
-import 'package:flutter_login/flutter_login.dart';
 import 'package:login_screen_2/widgets/custom_button.dart';
 
 void main() {

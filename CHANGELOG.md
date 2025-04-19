@@ -1,3 +1,7 @@
-## [1.0.0] - 2025-04-19
-- Initial release of ecom_login_flutter.
-- Includes Login Screen and Custom Bottom Navigation with dynamic home screen setup.
+# Changelog
+
+## [0.1.0] - 2025-04-10
+- Added basic authentication
+
+## [1.0.0+1] - 2025-04-19
+- Initial release
